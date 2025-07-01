@@ -1,21 +1,17 @@
 ﻿# Numero-Secreto
 
 
-YEEEEEES AJ!!! Bora criar um README digno de palco pra seu projeto do **Número Secreto** — com ✨mistério, magia e muito código!✨
-
-Aqui está um modelo completinho, com descrição, instruções e aquele seu toque criativo que faz qualquer repositório virar show:
-
 ---
 
 ````markdown
-# 🎯 Número Secreto — Projeto em Python
+#Número Secreto — Projeto em Python
 
 Olá, mundo mágico! ✨  
 Este é um projeto criado durante meus estudos de **lógica de programação com Python**, com o objetivo de praticar **condições, loops, entradas de dados** e aquela pitada de suspense dramático!
 
 ---
 
-## 💡 Sobre o projeto
+##Sobre o projeto
 
 O jogo do **Número Secreto** funciona assim:
 - O sistema escolhe aleatoriamente um número entre 1 e 100 🔐  
@@ -25,7 +21,7 @@ O jogo do **Número Secreto** funciona assim:
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##Tecnologias utilizadas
 
 - Python 3  
 - Biblioteca `random`  
@@ -33,7 +29,7 @@ O jogo do **Número Secreto** funciona assim:
 
 ---
 
-## 🚀 Como rodar o projeto
+##Como rodar o projeto
 
 1. Clone este repositório:
 ```bash
@@ -54,14 +50,14 @@ python jogo.py
 
 ---
 
-## 🌟 Sobre mim
+##Sobre mim
 
 Sou a AJ — artista, desenvolvedora, designer e apaixonada por transformar códigos em experiências com alma.
 Este projeto é parte da minha jornada de aprendizado em programação com a **Alura, Oracle One e muita paixão por tecnologia**!
 
 
 
-## 📬 Contato
+##Contato
 
 Vamos conversar sobre tech com criatividade?
 [www.linkedin.com/in/ajtp](https://www.linkedin.com/in/ajtp)
