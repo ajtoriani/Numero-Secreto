@@ -1,7 +1,10 @@
 # Número Secreto — Projeto em Python
 
 Olá, mundo mágico! ✨  
-Este é um projeto criado durante meus estudos de **lógica de programação com Python**, com o objetivo de praticar **condições, loops, entradas de dados** e aquela pitada de suspense dramático!
+Este é um projeto criado durante meus estudos de **lógica de programação com Python**, com o objetivo de praticar **condições, loops e entradas de dados**, oferecido pelo curso da Oracle Next Education e Alura.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
 
 ---
 
