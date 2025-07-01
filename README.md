@@ -1,9 +1,6 @@
 ﻿# Numero-Secreto
 
 
----
-
-````markdown
 #Número Secreto — Projeto em Python
 
 Olá, mundo mágico! ✨  
